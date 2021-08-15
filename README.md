@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MHnasri
-- 👀 I’m interested in Creat stuff .
+- 👀 I’m interested in Create stuff .
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
